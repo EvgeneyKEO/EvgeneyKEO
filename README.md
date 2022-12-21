@@ -3,7 +3,7 @@
 
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link)
 ### My skills:
-<img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" alt="drawing" width="100"/>
+<img src="https://www.theiphonewiki.com/w/images/0/02/Charles_Icon.JPG" alt="drawing" width="50"/>
 
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
