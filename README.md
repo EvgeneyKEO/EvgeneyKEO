@@ -8,9 +8,9 @@
 ### 🔸Check Lists for Crypto Price Widgets App (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=0); [Crtical Path](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=1415740746); [Regression](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=1373078348).
 ### 🔸Bug Reports: [Investmate App](https://docs.google.com/spreadsheets/d/12G1pVsco2yrww5j1gfW0AvF8psEplvSRoSPC1x-fQcA/edit#gid=0) and [Crypto Price Widgets App](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=1390548020).
 ### :two: Postman:
-### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/Postman#:~:text=%F0%9F%94%B6,Postman_HW_1)
-### 🔸Home work two - [*Link*](https://github.com/EvgeneyKEO/Postman#:~:text=%F0%9F%94%B6-,Postman_HW_2,-%F0%9F%94%B8)
+### 🔸Home work one - [*Link*]()
+### 🔸Home work two - [*Link*]()
 ### :three: SQL:
-### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/SQL#:~:text=%F0%9F%94%B6,SQL%20HW%20%E2%84%961)
-### 🔸Home work two - [*Link*](https://github.com/EvgeneyKEO/SQL#:~:text=by%20created_on%20desc%3B-,%F0%9F%94%B6,SQL%20HW%20%E2%84%962,-1.%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%83)
-### 🔸Home work three - [*Link*](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-1)
+### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-1)
+### 🔸Home work two - [*Link*](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-2)
+### 🔸Home work three - [*Link*](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-3)
