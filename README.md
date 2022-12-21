@@ -3,7 +3,8 @@
 
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link)
 ### My skills:
-[image](https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg)
+<img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" alt="drawing" width="200"/>
+
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
 ### 🔸Check Lists for Investmate App (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1048996990); [Crtical Path](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1372499893); [Regression](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=0).
