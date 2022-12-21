@@ -1,7 +1,9 @@
 ### Hi there 👋 My name's Evgeney :blush:
 ### I'm Junior QA Engineer and I open to work :stuck_out_tongue_winking_eye: 
 
-### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link) 
+### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link)
+### My skills:
+[image](https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg)
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
 ### 🔸Check Lists for Investmate App (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1048996990); [Crtical Path](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1372499893); [Regression](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=0).
@@ -23,3 +25,5 @@ ______________________
 ### :large_blue_diamond: I also took part in an online the 3rd online conference for QA Engineer. 
 ### 📹 You can follow the link to see my perfomance - [*Link*](https://www.youtube.com/watch?t=2058&v=sW3vny7kt20&feature=youtu.be) 
 _____________________
+
+### Thank you
