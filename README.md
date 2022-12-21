@@ -16,3 +16,4 @@
 ### 🔸Home work three - [*Link*](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-3)
 ### :four: GitBash:
 ### 🔸Home work one - [*Task №1*](https://github.com/EvgeneyKEO/GitBash_HW1#задание-1-linux-terminal-gitbash-commands); [*Task №2*](https://github.com/EvgeneyKEO/GitBash_HW1#задание-2---отправить-http-запрос-на-сервер); [*Task №3*](https://github.com/EvgeneyKEO/GitBash_HW1#задание-3---написать-скрипт-который-выполнит-автоматически-пункты-3-4-5-6-7-8-13).
+### 🔸Home work two - [*Part №1*](https://github.com/EvgeneyKEO/JSON#large_orange_diamond-json); [*Part №2*](https://github.com/EvgeneyKEO/XML#large_orange_diamond-xml); [*Part №3*](https://github.com/EvgeneyKEO/TXT#large_orange_diamond-txt).
