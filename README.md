@@ -13,4 +13,4 @@
 ### :three: SQL:
 ### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/SQL#:~:text=%F0%9F%94%B6,SQL%20HW%20%E2%84%961)
 ### 🔸Home work two - [*Link*](https://github.com/EvgeneyKEO/SQL#:~:text=by%20created_on%20desc%3B-,%F0%9F%94%B6,SQL%20HW%20%E2%84%962,-1.%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%83)
-### 🔸Home work three - [*Link*]([https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-3:~:text=data%2C%20insert%20data%3B-,%F0%9F%94%B6,SQL%20HW%20%E2%84%963,-1.%D0%92%D1%8B%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B2%D1%81%D0%B5%D1%85](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-1))
+### 🔸Home work three - [*Link*]([https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-3:~:text=data%2C%20insert%20data%3B-,%F0%9F%94%B6,SQL%20HW%20%E2%84%963,-1.%D0%92%D1%8B%D0%B2%D0%B5%D1%81%D1%82%D0%B8%20%D0%B2%D1%81%D0%B5%D1%85](https://github.com/EvgeneyKEO/SQL#large_orange_diamond-sql-hw-1)
