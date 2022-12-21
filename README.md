@@ -19,3 +19,6 @@
 ### 🔸Home work two - [*Part №1*](https://github.com/EvgeneyKEO/JSON#large_orange_diamond-json); [*Part №2*](https://github.com/EvgeneyKEO/XML#large_orange_diamond-xml); [*Part №3*](https://github.com/EvgeneyKEO/TXT#large_orange_diamond-txt).
 ### :five: JavaScript:
 ### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/JavaScript#large_orange_diamond-javascript_hw_1)
+______________________
+### I also took part in an online the 3rd online conference for QA Engineer. You can follow the link to see my perfomance - [*Link*](https://www.youtube.com/watch?t=2058&v=sW3vny7kt20&feature=youtu.be)
+_____________________
