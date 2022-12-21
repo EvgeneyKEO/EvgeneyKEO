@@ -1,8 +1,10 @@
 ### Hi there 👋 My name's Evgeney :blush:
 ### I'm Junior QA Engineer and I open to work :stuck_out_tongue_winking_eye: 
-### My skills:
-### :one: Charles Proxy <img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" alt="drawing" width="50"/>
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link)
+___
+### :diamond_shape_with_a_dot_inside: My skills:
+### <img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" alt="drawing" width="80"/> <img src="https://www.wikivideo.eu/img/screen/76542.png" alt="drawing" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="drawing" width="80 "/> 
+___
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
 ### 🔸Check Lists for Investmate App (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1048996990); [Crtical Path](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1372499893); [Regression](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=0).
