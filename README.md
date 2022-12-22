@@ -3,7 +3,7 @@
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link)
 ___
 ### My contacts:
-### [<img src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png" width="50"/>](http://linkedin.com/in/kandyba-evgeney) 
+### [<img src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png" width="80"/>](http://linkedin.com/in/kandyba-evgeney) 
 ### 
 ___
 ### :diamond_shape_with_a_dot_inside: My skills:
