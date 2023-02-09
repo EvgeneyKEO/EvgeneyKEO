@@ -1,7 +1,7 @@
 ### Hi there 👋 My name's Evgeney :blush:
 ### I'm Junior QA Engineer and I open to work :stuck_out_tongue_winking_eye: 
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/14UWaZK316h8kwqF_Y2ae8fHWzDnIVgqX/view?usp=share_link)
-### [:arrow_down_small: VIEW MY PORTFOLIO :arrow_down_small:](https://github.com/EvgeneyKEO/EvgeneyKEO/edit/main/README.md#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links)
+### [:arrow_down_small: VIEW MY PORTFOLIO :arrow_down_small:](https://github.com/EvgeneyKEO#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links)
 ### :email: My contacts:
 ### [<img src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png" width="80"/>](http://linkedin.com/in/kandyba-evgeney) 
 ###  <a href="mailto:kandybaeo@gmail.com?body=Please, send me offer)))"><img src="https://i.pinimg.com/originals/d0/4e/fe/d04efe7341f7f30d7094cd39a5396c5c.png" width="80"/></a>
