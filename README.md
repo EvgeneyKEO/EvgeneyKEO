@@ -10,9 +10,12 @@
 ___
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
-### 🔸Checklists for Mobile App (Prod Vesrion): [Smokе](); [Crtical Path](); [Regression]().
-### 🔸Checklists for Mobile App Widgets (Prod Vesrion): [Smokе](); [Crtical Path](); [Regression]().
-### 🔸Bug Reports: [Mobile App]() and [Mobile App Widgets]().
+### 🔸Checklists for Mobile App (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1048996990); [Crtical Path](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1372499893); [Regression](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=0).
+
+### 🔸Checklists for Mobile App Widgets (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=0); [Crtical Path](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=1415740746); [Regression](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=1373078348).
+
+### 🔸Bug Reports: [Mobile App](https://docs.google.com/spreadsheets/d/12G1pVsco2yrww5j1gfW0AvF8psEplvSRoSPC1x-fQcA/edit#gid=0) and [Mobile App Widgets](https://docs.google.com/spreadsheets/d/1gfX5z899m5hREeXdSLKp-C44XkXXxojA2O91NvNOEUM/edit#gid=1390548020).
+
 ### :two: Postman:
 ### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/Postman#large_orange_diamond-postman_hw_1)
 ### 🔸Home work two - [*Link*](https://github.com/EvgeneyKEO/Postman#large_orange_diamond-postman_hw_2)
