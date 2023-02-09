@@ -5,7 +5,7 @@
 ### :email: My contacts:
 ### [<img src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png" width="80"/>](http://linkedin.com/in/kandyba-evgeney) 
 ###  <a href="mailto:kandybaeo@gmail.com?body=Please, send me offer)))"><img src="https://i.pinimg.com/originals/d0/4e/fe/d04efe7341f7f30d7094cd39a5396c5c.png" width="80"/></a>
-### [<img src="https://cdn.dribbble.com/users/1322735/screenshots/14088942/media/e4bb862ce77b60e7024de3ad2f8774cb.png?compress=1&resize=1200x900&vertical=top" width="80"/>](https://t.me/vvs_moon) 
+### [<img src="https://img2.freepng.ru/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="80"/>](https://t.me/vvs_moon) 
 ### :muscle: My skills:
 ### <img src="https://www.digiseller.ru/preview/1018011/p1_3287481_f611780d.jpg" alt="drawing" width="80"/> <img src="https://www.wikivideo.eu/img/screen/76542.png" alt="drawing" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="drawing" width="80 "/> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-atlassian/events/jiralogo_1Z87Yaw.png" width="80"/> <img src="https://courses24.net/wp-content/uploads/2022/06/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_62972ac983612.png" width="80"/> <img src="https://pictures.telegram-store.com/channels/kanal-catalog-telegram/4166_2021_06_21_1_.jpg" width="80"/> <img src="https://miro.medium.com/max/1200/1*AmHbL-hnvRD6JJGruVu64A.png" width="80"/> 
 ___
