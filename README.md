@@ -1,5 +1,6 @@
 <div id="badges" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=560&height=70&lines=Hi%F0%9F%91%8B+My+name's+Kandyba+Evgeniy%F0%9F%99%83;I'm++QA+Engineer++and+I+open+to+work%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+glad+to+see+you+on+my+GitHub%F0%9F%98%8C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=560&height=95&lines=Hi%F0%9F%91%8B+My+name's+Kandyba+Evgeniy%F0%9F%99%83;I'm++QA+Engineer++and+I+open+to+work%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+glad+to+see+you+on+my+GitHub%F0%9F%98%8C" alt="Typing SVG" />
+  </a>
 </div>
 
 <div id="badges" align="center">
@@ -14,11 +15,8 @@
   </a>
 </div>
 
-<div align="center">
-  <a href=https://github.com/EvgeneyKEO#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links>
-    VIEW MY PORTFOLIO
-  </a>
-</div>
+
+
 
 ___
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
