@@ -15,6 +15,13 @@
   </a>
 </div>
 
+<div align="center">
+  <a href=https://github.com/EvgeneyKEO#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links>
+  </a> 
+</div>
+
+
+
 ___
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
