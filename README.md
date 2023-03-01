@@ -1,7 +1,6 @@
 ### Hi there 👋 My name's Evgeney :blush:
 ### I'm Junior QA Engineer and I open to work :stuck_out_tongue_winking_eye: 
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/1BEz73B1kRBmZm4aLa3ldOu7M661SrJRi/view?usp=share_link)
-### [:arrow_down_small: VIEW MY PORTFOLIO :arrow_down_small:](https://github.com/EvgeneyKEO#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links)
 
 <div id="badges" align="center">
   <a href="http://linkedin.com/in/kandyba-evgeney">
@@ -17,10 +16,9 @@
 
 <div align="center">
   <a href=https://github.com/EvgeneyKEO#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links>
-  </a> 
+    VIEW MY PORTFOLIO
+  </a>
 </div>
-
-
 
 ___
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
