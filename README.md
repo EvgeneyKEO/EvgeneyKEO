@@ -2,10 +2,19 @@
 ### I'm Junior QA Engineer and I open to work :stuck_out_tongue_winking_eye: 
 ### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/1BEz73B1kRBmZm4aLa3ldOu7M661SrJRi/view?usp=share_link)
 ### [:arrow_down_small: VIEW MY PORTFOLIO :arrow_down_small:](https://github.com/EvgeneyKEO#in-addition-you-can-view-my-portfolio-on-github-and-google-drive-by-clicking-on-the-following-links)
-### :email: My contacts:
-### [<img src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png" width="80"/>](http://linkedin.com/in/kandyba-evgeney) 
-###  <a href="mailto:kandybaeo@gmail.com?body=Please, send me offer)))"><img src="https://i.pinimg.com/originals/d0/4e/fe/d04efe7341f7f30d7094cd39a5396c5c.png" width="80"/></a>
-### [<img src="https://img2.freepng.ru/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="80"/>](https://t.me/vvs_moon) 
+
+<div id="badges" align="center">
+  <a href="http://linkedin.com/in/kandyba-evgeney">
+    <img src="https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/vvs_moon">
+    <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1BEz73B1kRBmZm4aLa3ldOu7M661SrJRi/view?usp=share_link">
+    <img src="https://img.shields.io/badge/My CV-steelblue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
+  </a>
+</div>
+
 ___
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
