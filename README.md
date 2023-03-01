@@ -1,6 +1,6 @@
-### Hi there 👋 My name's Evgeney :blush:
-### I'm Junior QA Engineer and I open to work :stuck_out_tongue_winking_eye: 
-### You can view my CV by clicking on the arrow - [:arrow_forward:](https://drive.google.com/file/d/1BEz73B1kRBmZm4aLa3ldOu7M661SrJRi/view?usp=share_link)
+<div id="badges" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&vCenter=true&width=560&height=70&lines=Hi%F0%9F%91%8B+My+name's+Kandyba+Evgeniy%F0%9F%99%83;I'm++QA+Engineer++and+I+open+to+work%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+glad+to+see+you+on+my+GitHub%F0%9F%98%8C" alt="Typing SVG" /></a>
+</div>
 
 <div id="badges" align="center">
   <a href="http://linkedin.com/in/kandyba-evgeney">
