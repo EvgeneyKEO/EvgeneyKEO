@@ -15,10 +15,9 @@
   </a>
 </div>
 
-
-
-
-___
+_________
+I've experience of working in a team, I can and love to communicate with people, I'm result-oriented and open to new opportunities for professional growth as a "QA Engineer". I believe that I can make a valuable contribution to the company with my perseverance, desire to develop in the field of testing and work to improve the quality of the product for users.
+_________
 ### In addition, you can view my portfolio on GitHub and Google Drive by clicking on the following links:
 ### :one: Test documentations:
 ### 🔸Checklists for Mobile App (Prod Vesrion): [Smokе](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1048996990); [Crtical Path](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=1372499893); [Regression](https://docs.google.com/spreadsheets/d/18ytV0OAsYlJYjIoDi81GboPaq-nEO7IxCB57tpYulb8/edit#gid=0).
