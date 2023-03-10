@@ -36,6 +36,7 @@ _________
 ### :four: GitBash:
 ### 🔸Home work one - [*Task №1*](https://github.com/EvgeneyKEO/GitBash_HW1#задание-1-linux-terminal-gitbash-commands); [*Task №2*](https://github.com/EvgeneyKEO/GitBash_HW1#задание-2---отправить-http-запрос-на-сервер); [*Task №3*](https://github.com/EvgeneyKEO/GitBash_HW1#задание-3---написать-скрипт-который-выполнит-автоматически-пункты-3-4-5-6-7-8-13).
 ### 🔸Home work two - [*Part №1*](https://github.com/EvgeneyKEO/JSON#large_orange_diamond-json); [*Part №2*](https://github.com/EvgeneyKEO/XML#large_orange_diamond-xml); [*Part №3*](https://github.com/EvgeneyKEO/TXT#large_orange_diamond-txt).
+### 🔸Home work three - [*Task №1*](https://github.com/EvgeneyKEO/GitBash_HW2#hw_2:~:text=README.md-,HW_2,-%D0%A1%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BF%D0%BA%D1%83%20dir_1)
 ### :five: JavaScript:
 ### 🔸Home work one - [*Link*](https://github.com/EvgeneyKEO/JavaScript#large_orange_diamond-javascript_hw_1)
 ### :six: Jmeter: 
