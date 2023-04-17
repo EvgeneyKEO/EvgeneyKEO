@@ -13,7 +13,7 @@
   <a href="https://drive.google.com/file/d/1BEz73B1kRBmZm4aLa3ldOu7M661SrJRi/view?usp=share_link">
     <img src="https://img.shields.io/badge/My CV in English-steelblue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV in English Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/14kQAHuaQdeKosf5MZeqAwOxm8sV3pJYD/view?usp=share_link">
+  <a href="https://drive.google.com/file/d/1sewcffPwS0Nyf5bsX3Q--TGVaykPbAOl/view?usp=share_link">
     <img src="https://img.shields.io/badge/My CV in Russian-steelblue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV in Russian Badge"/>
   </a>
 </div>
